@@ -1,26 +1,19 @@
 namespace project_cherniy
 {
+    using System;
     class Marker
     {
-       string text;
-        System.ConsoleColor color;
         public Marker(System.ConsoleColor color, string text)
         {
-            this.color = color;
-            this.text = text;
+            this.ColorProperty = color;
+            this.TextProperty = text;
         }
-         public System.ConsoleColor ColorProperty
+        public System.ConsoleColor ColorProperty {set; get;}
+        public string TextProperty {set; get;}
+        public string GetInfo()
         {
-            get { return color; }
-        }
-        public string TextProperty
-        {
-            get { return text; }
-        }
-        public void GetInfo()
-        {
-        
-            Console.WriteLine($"{text}");
+            System.Console.ForegroundColor = this.ColorProperty;
+            return $"{ColorProperty.ToString()}\n{TextProperty}";
         }
     }
 }

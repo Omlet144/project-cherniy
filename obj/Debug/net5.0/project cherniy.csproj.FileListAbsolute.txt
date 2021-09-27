@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.AssemblyInfo.cs
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\project cherniy\bin\Debug\net5.0\project cherniy.exe
+C:\Users\Student\Desktop\project cherniy\bin\Debug\net5.0\project cherniy.deps.json
+C:\Users\Student\Desktop\project cherniy\bin\Debug\net5.0\project cherniy.runtimeconfig.json
+C:\Users\Student\Desktop\project cherniy\bin\Debug\net5.0\project cherniy.runtimeconfig.dev.json
+C:\Users\Student\Desktop\project cherniy\bin\Debug\net5.0\project cherniy.dll
+C:\Users\Student\Desktop\project cherniy\bin\Debug\net5.0\ref\project cherniy.dll
+C:\Users\Student\Desktop\project cherniy\bin\Debug\net5.0\project cherniy.pdb
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.dll
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\ref\project cherniy.dll
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.pdb
+C:\Users\Student\Desktop\project cherniy\obj\Debug\net5.0\project cherniy.genruntimeconfig.cache
